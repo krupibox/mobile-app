@@ -5,7 +5,8 @@ const config: CapacitorConfig = {
   appName: 'mobile-app',
   webDir: 'build',
   server: {
-    androidScheme: 'https'
+    androidScheme: 'https',
+    cleartext:  true,
   }
 };
 

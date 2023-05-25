@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Mobile",
+  "name": "Capacitor mobile APP",
   "icons": [
     {
       "src": "favicon.ico",
