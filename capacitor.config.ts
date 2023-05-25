@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.example.app',
-  appName: 'mobile-app',
+  appId: 'mobile.capacitor4test.app',
+  appName: 'mobile-capacitor-app',
   webDir: 'build',
   server: {
     androidScheme: 'https',
